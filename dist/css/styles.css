@@ -294,6 +294,7 @@ body {
       justify-content: space-between;
       background-color: var(--footer-bg);
       padding: 1.5rem 6rem;
+      width: 100%;
 
       & .lhs {
         flex-direction: row;
