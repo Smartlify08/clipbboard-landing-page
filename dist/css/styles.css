@@ -418,6 +418,7 @@ body {
 
     & .sponsored {
       flex-direction: row;
+      gap: 5rem;
     }
 
     & footer {
